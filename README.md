@@ -32,4 +32,10 @@ skill
 * Erlenmeyer
 * Beaker glass
 [How to make sodium chloride](https://ibnishak92.makes.org/popcorn/1mrc)
+
+Prossedure
+* Students watch the vodeo lecture and then try it
+
+Tips
+* Be carefull
 ---
