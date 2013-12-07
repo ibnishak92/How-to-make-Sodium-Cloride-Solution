@@ -1,33 +1,35 @@
-# classrecipe-template
-## elementary,social,classroom
+# How-to-make-Sodium-Cloride-Solution
+## Senior High School Laboratory
 This document is made by [gitfab](http://gitfab.org)
 ---
 #Target
-Elementary School (6-12)
+Senior High School Student
 
 
-![IMG_2918.JPG](https://raw.github.com/dadaa/classrecipe-template/master/gitfab/resources/IMG_2918.JPG)
+![IMG_2918.JPG](http://image.made-in-china.com/2f0j00zvsayeIcLbkC/Glucosamine-Sulfate-Sodium-Chloride-99-.jpg)
 ---
 #Scale
-1 classroom (~30)
+1 Laboratory (~10)
 
 ---
 #Overall
-In this activity, students make a introduction movie about their own country, and presentation for others.
+In this activity, students make a sodium chloride.
 
 
 ---
 #Educational Effect
-* Search information and Remixing
+* Students know how to make sodium chloride solution
 
 skill
 
-* Presentation Skill
-* deep Knowledge for own country
-
+* Students can to make solute a sodium chloride
+* Students know concept about solution
+* Students can apply science attitude
 ---
 #Item/Material/System
-* PC *Installed latest [Firefox](http://www.mozilla.org/en-US/firefox/)
-* Popcorn Maker
-* Screen for presentation
+* Hydrochloric acid
+* Sodium hydroxide
+* Erlenmeyer
+* Beaker glass
+[How to make sodium chloride](https://ibnishak92.makes.org/popcorn/1mrc)
 ---
